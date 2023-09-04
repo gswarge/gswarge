@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaurang
 - 👀 I’m interested in Analytics Engineering / Data Engineering
-- 🌱 I currently work as an Analytics Engineer @ the Greater Vancouver Food Bank, Vancouver, Canada
 - 📫 How to reach me : connect with me on LinkedIN https://www.linkedin.com/in/gaurangswarge/
 
 <!---
